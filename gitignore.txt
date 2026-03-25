@@ -1,0 +1,24 @@
+# Dataset & splits
+dataset/
+splitted_dataset/
+
+# Trained models
+*.h5
+*.keras
+
+# KerasTuner artifacts
+kt_tuner_dir/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
